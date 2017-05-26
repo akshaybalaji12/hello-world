@@ -1,3 +1,4 @@
-# hello-world
-first repo
-hi, i'm akshay
+#include<stdio.h>
+void main()
+{printf("HELLO");
+}
